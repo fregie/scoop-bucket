@@ -1,12 +1,19 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fregie/tokenhush/releases/download/v0.5.0/tokenhush_0.5.0_windows_amd64.zip",
+            "url": "https://github.com/fregie/tokenhush/releases/download/v0.5.1/tokenhush_0.5.1_windows_amd64.zip",
             "bin": [
                 "tokenhush.exe"
             ],
-            "hash": "3f9ca6bac884bdca99fb1d23a68504b5ef6a4c0a94643cc315b9c59aec3a2725"
+            "hash": "eecf45efcb4b87f4641af834af4e40991172f49b6bb806287c62cc1fac903502"
+        },
+        "arm64": {
+            "url": "https://github.com/fregie/tokenhush/releases/download/v0.5.1/tokenhush_0.5.1_windows_arm64.zip",
+            "bin": [
+                "tokenhush.exe"
+            ],
+            "hash": "789775da041414bd4688101b7da0b03628a7d0438080937e7782102a7d42ad03"
         }
     },
     "homepage": "https://github.com/fregie/tokenhush",
